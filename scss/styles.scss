@@ -1,0 +1,10 @@
+$bgcolormain : hsl(0,100%,99%);
+
+body {
+  background-color: $bgcolormain;
+}
+
+#search {
+  width: 20px;
+  height: 20px;
+}
