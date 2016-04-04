@@ -1,0 +1,25 @@
+{
+  "name": "getty-images-API",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api-key.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owen28299/getty-images-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/owen28299/getty-images-API/issues"
+  },
+  "homepage": "https://github.com/owen28299/getty-images-API#readme",
+  "devDependencies": {
+    "browser-sync": "^2.11.2",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.2.0"
+  }
+}
